@@ -5,7 +5,7 @@ ndot | number of dots in URL
 sdlevel | sub-domain level
 plevel | path level           
 ndash | number of dashes in URL         
-ndashost | number of dashes in host name          
+ndashhost | number of dashes in host name          
 tilde | tilde symbol in URL              
 nundersc | number of underscores in URL           
 npercent | number of percent symbols in URL         
