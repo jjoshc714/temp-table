@@ -1,25 +1,25 @@
 Variable Name  | Description
 --------------|------------
-subject | 1    
-activity | 2 
-tBodyAccelmeanX | 3
-tBodyAccelmeanY | 4           
-tBodyAccelmeanZ | 5           
-tBodyAccelstdX | 6          
-tBodyAccelstdY | 7              
-tBodyAccelstdZ |8             
-tGravityAccelmeanX | 9           
-tGravityAccelmeanY | 10            
-tGravityAccelmeanZ | 11          
-tGravityAccelstdX | 12            
-tGravityAccelstdY | 13             
-tGravityAccelstdZ | 14             
-tBodyAccelJerkmeanX | 15        
-tBodyAccelJerkmeanY | 16          
-tBodyAccelJerkmeanZ | 17      
-tBodyAccelJerkstdX | 18       
-tBodyAccelJerkstdY | 19      
-tBodyAccelJerkstdZ | 20      
-tBodyGyromeanX | 21    
-tBodyGyromeanY | 22           
-tBodyGyromeanZ | 23          
+class | 1 = phishing website, 0 = legitimate website   
+ndot | number of dots in URL 
+sdlevel | sub-domain level
+plevel | path level           
+ndash | number of dashes in URL         
+ndashost | number of dashes in host name          
+tilde | tilde symbol in URL              
+nundersc | number of underscores in URL           
+npercent | number of percent symbols in URL         
+nohttps | no https in URL           
+domipath | domain paths           
+nsensword | number of sensitive words in URL e.g "secure", "confirm"          
+embbrand | embedded brand name            
+favicon | favicon from external domain             
+insecf | insecure forms        
+rfaction | relative form action          
+freqmis | frequent domain mismatch      
+fake | fake link in status bar       
+norclick | right click disabled      
+submit | allows submission to email       
+frame | using IFrame or other frame    
+mistitle | missing a title           
+error | model residual          
