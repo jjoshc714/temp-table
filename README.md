@@ -22,4 +22,4 @@ norclick | right click disabled
 submit | allows submission to email       
 frame | using IFrame or other frame    
 mistitle | missing a title           
-error | model residual          
+e | unobservable error           
